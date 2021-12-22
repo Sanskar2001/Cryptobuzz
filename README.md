@@ -2,6 +2,7 @@
 
 It is a cryptocurrency financial web app where you can track profit/loss,events, news, stats,latest value etc. for your investments.
 
+[Click here to visit the web app](https://cryptobuzz-lxqb4fmgy-sanskar2001.vercel.app)
 
 ![Logo](/public/CryptobuzzLogo.png)
 
