@@ -10,6 +10,8 @@ It is a cryptocurrency financial web app where you can track profit/loss,events,
 - [React.js](https://reactjs.org/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - [Ant Design](https://ant.design/)
+- [Coinranking API](https://rapidapi.com/Coinranking/api/coinranking1)
+- [Microsoft Bing News Search API](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-news-search1)
 
 ## Features
 - Worldwide crypto stats.
